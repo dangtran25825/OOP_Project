@@ -6,7 +6,6 @@ print(f"1. Tổng số giây: {total_seconds} giây")
 kilometers = 10
 miles = kilometers / 1.61
 print(f"2. 10 km tương đương: {miles:.2f} dặm")
-
 # 3. Tính tốc độ trung bình (Average Pace & Average Speed)
 # Tính Pace (số giây trên mỗi dặm)
 seconds_per_mile = total_seconds / miles
